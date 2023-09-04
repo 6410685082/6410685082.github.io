@@ -1,8 +1,8 @@
 # CN331_AS1
 ## Introduce myself!!
 <img src="./imgs/me1.jpg"
-    width="600" 
-    height="800">
+    width="500" 
+    height="650">
 ### **Name** : Kittisak Suddaen
 #### **Student number** : 6410685082
 #### **Class** : CN331
