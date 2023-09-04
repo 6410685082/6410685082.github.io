@@ -7,4 +7,12 @@
 #### **Student number** : 6410685082
 #### **Class** : CN331
 
+
+| Pros                   | Cons |
+|------------------------|------|
+| A little bit handsome? | Lazy |
+| Like Cat               |   -  |
+| Friendly               |   -  |
+| And more...            | eiei |
+
 [Don't Click](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
