@@ -7,9 +7,4 @@
 #### **Student number** : 6410685082
 #### **Class** : CN331
 
-<marquee 
-        style="font-size: 10px"
-        behavior="alternate">
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">Don't click</a>
-        
-</marquee>
+[Don't Click](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
